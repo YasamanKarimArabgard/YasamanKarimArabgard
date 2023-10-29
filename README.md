@@ -4,7 +4,7 @@
 
 # Creative Front-end developer 👩‍💻
 
-● a front end developer with over 2 years of experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I am highly motivated by problem-solving and enjoy tackling complex issues. 
+● a front end developer with over 2 years of self-experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I am highly motivated by problem-solving and enjoy tackling complex issues. 
 
 ### Languages and Tools :
 <div>
