@@ -2,9 +2,9 @@
   <img src=https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif width="200"/>
 </div>
 
-# Creative Front-end developer 👩‍💻
+# Creative Software Engineer 👩‍💻
 
-● a front end developer with over 2 years of self-experience in coding. My passion for programming has led me to constantly seek out new challenges and opportunities to learn. I am highly motivated by problem-solving and enjoy tackling complex issues. 
+●Hello! I'm Yasaman Arabgard, a developer with experience in both front-end and back-end design. I started my journey in the colorful world of CSS and JavaScript and later delved into C# and .NET. I love challenges and solving complex puzzles, and working with data and SQL feels like an art to me. I’m always looking to learn and grow, and I hope we can connect on this exciting journey! 
 
 ### Languages and Tools :
 <div>
