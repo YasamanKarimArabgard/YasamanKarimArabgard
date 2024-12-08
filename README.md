@@ -2,7 +2,7 @@
   <img src=https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif width="200"/>
 </div>
 
-# Creative Software Engineer 👩‍💻
+# Creative Developer 👩‍💻
 
 ●Hello! I'm Yasaman Arabgard, a developer with experience in both front-end and back-end design. I started my journey in the colorful world of CSS and JavaScript and later delved into C# and .NET. I love challenges and solving complex puzzles, and working with data and SQL feels like an art to me. I’m always looking to learn and grow, and I hope we can connect on this exciting journey! 
 
