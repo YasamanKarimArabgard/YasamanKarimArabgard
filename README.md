@@ -4,7 +4,7 @@
 
 # Creative Developer 👩‍💻
 
-●Hello! I'm Yasaman Arabgard, a developer with experience in both front-end and back-end design. I started my journey in the colorful world of CSS and JavaScript and later delved into C# and .NET. I love challenges and solving complex puzzles, and working with data and SQL feels like an art to me. I’m always looking to learn and grow, and I hope we can connect on this exciting journey! 
+Hello! I'm Yasaman Arabgard, a developer with experience in both front-end and back-end design. I started my journey in the colorful world of CSS and JavaScript and later delved into C# and .NET. I love challenges and solving complex puzzles, and working with data and SQL feels like an art to me. I’m always looking to learn and grow, and I hope we can connect on this exciting journey! 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
