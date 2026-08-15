@@ -2,7 +2,7 @@
   <img src=https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif width="200"/>
 </div>
 
-# Creative Developer 👩‍💻
+# Front-end Developer 👩‍💻
 
 Front-end developer. Python & AI enthusiast. I build interfaces and love the logic behind the data. Started with JS and CSS, and I'm always chasing the next interesting problem. Let's build something together.
 
