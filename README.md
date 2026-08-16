@@ -25,4 +25,4 @@ Front-end developer. Python & AI enthusiast. I build interfaces and love the log
 </div>
 
 ## my contribution graph get eaten by the snake 🐍:
-https://github.com/YasamanKarimArabgard/YasamanKarimArabgard/blob/output/github-contribution-grid-snake.gif
+<img align='center' src='https://github.com/YasamanKarimArabgard/YasamanKarimArabgard/blob/output/github-contribution-grid-snake.gif' width='900'>
