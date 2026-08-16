@@ -23,3 +23,6 @@ Front-end developer. Python & AI enthusiast. I build interfaces and love the log
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" **alt="postman" width="40" height="40"/>
   
 </div>
+
+## my contribution graph get eaten by the snake 🐍:
+<img align='center' src='https://github.com/YasamanKarimArabgard/YasamanKarimArabgard/blob/output/github-contribution-grid-snake.gif' width='900"'>
